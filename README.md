@@ -12,8 +12,6 @@ Final project for the Building AI course
 All organisations use text based messaging systems for communication, sharing of information and ideas for the 
 operation.
 
-Using textual analysis hot topics, problematic process and best practice can be highlighted.
-
 Findng routine exchanges between people, departments or companies may show where automation can be used.
 
 
@@ -26,6 +24,8 @@ This project seeks to make information available across an organisation without 
 
 The idea is for information which usually sits in silos waiting for people to make connections to have an AI assistant find and suggest these.
 It can be used across formal and informal information sources, with the creators consent.
+
+Using textual analysis hot topics, problematic process and best practice can be highlighted.
 
 All messaging types and data stores are potentially in scope.
 
