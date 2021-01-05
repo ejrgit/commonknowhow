@@ -1,19 +1,15 @@
 # commonknowhow
 Using AI to make information flow more smooth and suggest potential area for process improvement focus
 
-
-
 # Project Title
 
 Final project for the Building AI course
 
 ## Summary
-
 All organisations use text based messaging systems for communication, sharing of information and ideas for the 
 operation.
 
 Findng routine exchanges between people, departments or companies may show where automation can be used.
-
 
 ## Background
 
