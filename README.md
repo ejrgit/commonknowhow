@@ -7,9 +7,7 @@ Final project for the Building AI course
 
 ## Summary
 All organisations use text based messaging systems for communication, sharing of information and ideas for the 
-operation.
-
-Findng routine exchanges between people, departments or companies may show where automation can be used.
+operation. Findng routine exchanges between people, departments or companies may show where automation can be used.
 
 ## Background
 
